@@ -5,3 +5,7 @@ __pycache__
 */local_models
 cache
 scratch/
+datasets/
+translate/
+test/
+tutorial/
